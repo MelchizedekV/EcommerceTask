@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EcommerceTask</string>
+    <string name="products">PRODUCTS</string>
+    <string name="cart">MY CART</string>
+    <string name="add">ADD</string>
+    <string name="checkout">Checkout</string>
+</resources>
